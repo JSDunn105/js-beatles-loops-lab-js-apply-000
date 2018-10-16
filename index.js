@@ -27,13 +27,14 @@ function johnLennonFacts(arrFacts){
 johnLennonFacts(facts);
 
 function iLoveTheBeatles(num){
-  var maxnum = (15-num);
-  var arrLove=[];
+  var arrLove=[];    
+  var maxcounter = (15 - num);
   var counter=0;
   var str ="I love the Beatles!";
-  if num < 15
-  do {arrLove[counter] = str;
-     counter++; 
+  if (num < 15);
+    do {(arrLove[counter] = str);
+        counter++; 
     }
-    while (counter < 15);
+    while (arrLove.length < maxcounter);
+    return arrLove;
 }
