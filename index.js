@@ -27,9 +27,11 @@ function johnLennonFacts(arrFacts){
 johnLennonFacts(facts);
 
 function iLoveTheBeatles(num){
+  var maxnum = (15-num);
   var arrLove=[];
   var counter=0;
   var str ="I love the Beatles!";
+  if num < 15
   do {arrLove[counter] = str;
      counter++; 
     }
