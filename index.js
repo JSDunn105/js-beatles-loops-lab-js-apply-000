@@ -26,4 +26,7 @@ function johnLennonFacts(arrFacts){
 }
 johnLennonFacts(facts);
 
-function iLoveTheBeatles
+function iLoveTheBeatles(num){
+  arrLove=[];
+  do-while
+}
