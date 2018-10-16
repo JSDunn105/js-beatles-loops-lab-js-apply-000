@@ -22,5 +22,6 @@ function johnLennonFacts(arrFacts){
     index=index+1;
   }
   
-  return exclamationFacts
+  return exclamationFacts;
 }
+johnLennonFacts(facts);
