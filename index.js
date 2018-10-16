@@ -17,7 +17,7 @@ var facts = [ "He was the last Beatle to learn to drive",
 function johnLennonFacts(arrFacts){
   var exclamationFacts = [];
   var i = arrFacts.length;
-  while (exclamationFacts[(i-1)] = null) {
+  while (exclamationFacts[(i-1)]) {
     
   }
   
