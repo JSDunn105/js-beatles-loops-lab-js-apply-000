@@ -18,7 +18,7 @@ function johnLennonFacts(arrFacts){
   var exclamationFacts = [];
   var index = 0;
   var i = arrFacts.length;
-  while (exclamationFacts[index] < {
+  while (exclamationFacts[index] !== {
     
   }
   
