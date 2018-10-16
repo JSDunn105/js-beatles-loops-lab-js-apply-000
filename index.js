@@ -16,8 +16,9 @@ var facts = [ "He was the last Beatle to learn to drive",
   
 function johnLennonFacts(arrFacts){
   var exclamationFacts = [];
+  var index = 0;
   var i = arrFacts.length;
-  while (i< {
+  while (exclamationFacts[index] < {
     
   }
   
